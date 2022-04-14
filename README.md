@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabs024
-- 👀 I’m interested in Back-end e Front-end
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Front-end e Back-end
+- 🌱 I’m currently learning Python, Javascript, HTML, CSS + Frameworks.
 - 💞️ I’m looking to collaborate on Qualquer lugar em busca de experiência.
 - 📫 How to reach me www.linkedin.com/in/gabs-ferreira
 
